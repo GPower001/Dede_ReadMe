@@ -37,16 +37,16 @@ I am committed to continuous learning and personal growth in the ever-evolving w
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akintomiwa200&show_icons=true&theme=tokyonight&count_private=true&hide=issues&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GPower001&show_icons=true&theme=tokyonight&count_private=true&hide=issues&cache_seconds=1800" alt="GitHub Stats" />
   <br>
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akintomiwa200&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GPower001&theme=tokyonight" alt="GitHub Streak" />
   <br>
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintomiwa200&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPower001&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="Top Languages" />
   <br>
   <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=akintomiwa200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GPower001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </p>
 
 ---
@@ -54,16 +54,16 @@ I am committed to continuous learning and personal growth in the ever-evolving w
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akintomiwa200&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GPower001&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=akintomiwa200" alt="Contribution Stats" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=GPower001" alt="Contribution Stats" />
 </p>
 
 <!-- Contribution Snake Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akintomiwa200/akintomiwa200/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/akintomiwa200/GPower001/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
