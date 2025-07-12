@@ -63,7 +63,7 @@ I am committed to continuous learning and personal growth in the ever-evolving w
 
 <!-- Contribution Snake Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akintomiwa200/GPower001/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/GPower001/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -71,11 +71,11 @@ I am committed to continuous learning and personal growth in the ever-evolving w
 ## 🏆 GitHub Profile Achievements
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akintomiwa200&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GPower001&theme=tokyonight" alt="Profile Details" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akintomiwa200&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GPower001&theme=tokyonight" alt="Repos Per Language" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akintomiwa200&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GPower001&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
